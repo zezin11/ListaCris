@@ -1,6 +1,4 @@
 #EXTM3U
-
-LISTA MÃE
 CANAIS ABERTOS
 #EXTINF:-1 tvg-id="" tvg-name="BAND HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b737d4c99a392be3157a83cb14d6b6fe.png" group-title="CANAIS: ABERTOS",BAND HD
 http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31061
@@ -10,18 +8,12 @@ http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31071
 http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31072
 #EXTINF:-1 tvg-id="" tvg-name="TV CULTURA HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3b05b706ee016feaf6ce46d8d441a679.png" group-title="CANAIS: ABERTOS",TV CULTURA HD
 http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31084
-
 #EXTINF:-1 tvg-id="Cancao Nova" tvg-name="CANCAO NOVA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9785aab110ace3b4b445d48d66c014bc.png" group-title="CANAIS: ABERTOS",CANCAO NOVA
 http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31571
 #EXTINF:-1 tvg-id="Rede Vida" tvg-name="REDE VIDA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/74ecc356e9a77c6c548b05e9437949a0.png" group-title="CANAIS: ABERTOS",REDE VIDA
 http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31577
 #EXTINF:-1 tvg-id="TV Aparecida [Alter]" tvg-name="TV APARECIDA LIVRE" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f1cad40f81a2f40c3c884a42a1083b47.png" group-title="CANAIS: ABERTOS",TV APARECIDA LIVRE
 http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31579
-
-
-
-
-
 CANAIS: DOCUMENTARIOS 
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/40e4afcfd925c2e4ea83a767993ea8b0.png" group-title="CANAIS: DOCUMENTARIOS",ANIMAL PLANET HD
 http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31105
@@ -73,14 +65,6 @@ http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31128
 http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31129
 #EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b09e07e568e0e3e12419495c35b1ac23.png" group-title="CANAIS: DOCUMENTARIOS",TRAVEL BOX BRAZIL
 http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31130
-
-
-
-
-
-
-
-
 VARIEDADES
 #EXTINF:-1 tvg-id="Arte 1 HD [Alter]" tvg-name="Arte 1 FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1024px-Arte_1_logo.svg.png" group-title="CANAIS: VARIEDADES",Arte 1 FULLHD
 http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31595
@@ -124,27 +108,6 @@ http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31618
 http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31630
 #EXTINF:-1 tvg-id="Viva HD" tvg-name="VIVA HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a3f61473d7a74dd439b3c132ec666fe.png" group-title="CANAIS: VARIEDADES",VIVA HD
 http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31631
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 CANAIS DE FILMES
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="CANAIS DE FILMES",A&E FULLHD
 http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31268
@@ -222,30 +185,6 @@ http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31303
 http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31304
 #EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/41d1f5c5b62b7ac7de31aeb45fc48756.png" group-title="CANAIS DE FILMES",WARNER CHANNEL FULLHD
 http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31305
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 TELECINE
 #EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION FULL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="CANAIS: TELECINE",TELECINE ACTION FULL HD
 http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31582
@@ -271,27 +210,6 @@ http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31592
 http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31593
 #EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/132fed2c428e1178f53d456fbabeb044.png" group-title="CANAIS: TELECINE",TELECINE TOUCH HD
 http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31594
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 INFANTIS
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="BABY TV FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="CANAIS: INFANTIS",BABY TV FULLHD
 http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31476
@@ -345,6 +263,7 @@ http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31502
 http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31503
 #EXTINF:-1 tvg-id="Zoomoo [Alter]" tvg-name="ZOOMOO HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a898f1f3d8f98f072b5c818272e1f38d.png" group-title="CANAIS: INFANTIS",ZOOMOO HD
 http://xcui.vitvabc.xyz:8880/287994003038/287994003038/31504
+
 
 
 
